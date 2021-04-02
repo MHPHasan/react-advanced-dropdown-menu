@@ -1,3 +1,7 @@
+# Dropdown Menu 
+
+Animated multi-level dropdown menu inspired by Facebook's March 2020 web UI. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
